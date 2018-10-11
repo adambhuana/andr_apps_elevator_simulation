@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simulasi Elevator</string>
+    <string name="lt1">Lantai 1</string>
+    <string name="lt2">Lantai 2</string>
+    <string name="lt3">Lantai 3</string>
+    <string name="move">Jalankan Lift!</string>
+    <string name="tutup">Tutup Aplikasi</string>
+    <string name="link"><a href="https://drive.google.com/open?id=0BxjLE12oQjVQQ2pPSXhEc1AxRW8">Brosur Terbaru</a></string>
+</resources>
